@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChopComm7", "WindowsPhoneGame2\WindowsPhoneGame2\ChopComm7.csproj", "{E646D766-20B4-4901-934F-802B4F56491A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChopComm7Content", "WindowsPhoneGame2\WindowsPhoneGame2Content\ChopComm7Content.contentproj", "{F1AB48AE-F019-47F4-AE5E-277FA172EF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E646D766-20B4-4901-934F-802B4F56491A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E646D766-20B4-4901-934F-802B4F56491A}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{E646D766-20B4-4901-934F-802B4F56491A}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{E646D766-20B4-4901-934F-802B4F56491A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{E646D766-20B4-4901-934F-802B4F56491A}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{E646D766-20B4-4901-934F-802B4F56491A}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{F1AB48AE-F019-47F4-AE5E-277FA172EF99}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{F1AB48AE-F019-47F4-AE5E-277FA172EF99}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
